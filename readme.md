@@ -593,10 +593,10 @@ pip install -r requirements.txt
 ## 🎓 Author
 
 **Erfan Esfahanian**  
-Student at Politecnico di Milano  
+Student at the University of Milan  
 Course: Audio Pattern Recognition  
 Supervisor: Professor Stavros Ntalampiras  
-Date: December 2024
+Date: December 2025
 
 ---
 
