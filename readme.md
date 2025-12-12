@@ -1,10 +1,10 @@
 # Music Genre Classification using Machine Learning
 
 **Course:** Audio Pattern Recognition  
-**Institution:** Politecnico di Milano  
+**Institution:** University of Milan
 **Student:** Erfan Esfahanian  
 **Supervisor:** Professor Stavros Ntalampiras  
-**Date:** December 2024
+**Date:** December 2025
 
 ---
 
